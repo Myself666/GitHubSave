@@ -6,3 +6,6 @@ F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestion\obj\Debug\EnglishQue
 F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestion\obj\Debug\EnglishQuestion.pdb
 F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestLogic.dll
 F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestLogic.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestion.exe.config
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\obj\Debug\EnglishQuestion.exe
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\obj\Debug\EnglishQuestion.pdb
