@@ -1,0 +1,5 @@
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.csprojResolveAssemblyReference.cache
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.dll
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.pdb
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.dll
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.pdb
