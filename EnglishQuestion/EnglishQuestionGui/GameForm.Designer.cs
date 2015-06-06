@@ -45,6 +45,8 @@
             this.radioButtonVariant2 = new System.Windows.Forms.RadioButton();
             this.radioButtonVariant1 = new System.Windows.Forms.RadioButton();
             this.buttonYes = new System.Windows.Forms.Button();
+            this.buttonSinglePlayer = new System.Windows.Forms.Button();
+            this.buttonMultiPlayer = new System.Windows.Forms.Button();
             this.menu.SuspendLayout();
             this.panelVariants.SuspendLayout();
             this.SuspendLayout();
@@ -94,7 +96,8 @@
             // 
             // labelEnglishMessage
             // 
-            this.labelEnglishMessage.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.labelEnglishMessage.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.labelEnglishMessage.Location = new System.Drawing.Point(81, 30);
             this.labelEnglishMessage.Name = "labelEnglishMessage";
             this.labelEnglishMessage.Size = new System.Drawing.Size(303, 68);
@@ -104,8 +107,9 @@
             // 
             // labelRussianMessage
             // 
-            this.labelRussianMessage.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.labelRussianMessage.Location = new System.Drawing.Point(84, 98);
+            this.labelRussianMessage.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.labelRussianMessage.Location = new System.Drawing.Point(84, 133);
             this.labelRussianMessage.Name = "labelRussianMessage";
             this.labelRussianMessage.Size = new System.Drawing.Size(300, 68);
             this.labelRussianMessage.TabIndex = 5;
@@ -114,9 +118,10 @@
             // 
             // labelTheWord
             // 
-            this.labelTheWord.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.labelTheWord.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.labelTheWord.AutoSize = true;
-            this.labelTheWord.Location = new System.Drawing.Point(200, 174);
+            this.labelTheWord.Location = new System.Drawing.Point(200, 245);
             this.labelTheWord.Name = "labelTheWord";
             this.labelTheWord.Size = new System.Drawing.Size(67, 13);
             this.labelTheWord.TabIndex = 6;
@@ -156,11 +161,12 @@
             // 
             // panelVariants
             // 
+            this.panelVariants.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.panelVariants.Controls.Add(this.radioButtonVariant4);
             this.panelVariants.Controls.Add(this.radioButtonVariant3);
             this.panelVariants.Controls.Add(this.radioButtonVariant2);
             this.panelVariants.Controls.Add(this.radioButtonVariant1);
-            this.panelVariants.Location = new System.Drawing.Point(28, 201);
+            this.panelVariants.Location = new System.Drawing.Point(28, 272);
             this.panelVariants.Name = "panelVariants";
             this.panelVariants.Size = new System.Drawing.Size(324, 103);
             this.panelVariants.TabIndex = 8;
@@ -211,21 +217,45 @@
             // 
             // buttonYes
             // 
+            this.buttonYes.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonYes.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.buttonYes.Location = new System.Drawing.Point(359, 201);
+            this.buttonYes.Location = new System.Drawing.Point(359, 272);
             this.buttonYes.Name = "buttonYes";
             this.buttonYes.Size = new System.Drawing.Size(99, 103);
             this.buttonYes.TabIndex = 9;
             this.buttonYes.Text = "Да!";
             this.buttonYes.UseVisualStyleBackColor = true;
             // 
+            // buttonSinglePlayer
+            // 
+            this.buttonSinglePlayer.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.buttonSinglePlayer.Location = new System.Drawing.Point(35, 240);
+            this.buttonSinglePlayer.Name = "buttonSinglePlayer";
+            this.buttonSinglePlayer.Size = new System.Drawing.Size(159, 23);
+            this.buttonSinglePlayer.TabIndex = 10;
+            this.buttonSinglePlayer.Text = "Start single-player game";
+            this.buttonSinglePlayer.UseVisualStyleBackColor = true;
+            this.buttonSinglePlayer.Click += new System.EventHandler(this.buttonSinglePlayer_Click);
+            // 
+            // buttonMultiPlayer
+            // 
+            this.buttonMultiPlayer.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonMultiPlayer.Location = new System.Drawing.Point(273, 240);
+            this.buttonMultiPlayer.Name = "buttonMultiPlayer";
+            this.buttonMultiPlayer.Size = new System.Drawing.Size(157, 23);
+            this.buttonMultiPlayer.TabIndex = 11;
+            this.buttonMultiPlayer.Text = "Start multi-player game";
+            this.buttonMultiPlayer.UseVisualStyleBackColor = true;
+            this.buttonMultiPlayer.Click += new System.EventHandler(this.buttonMultiPlayer_Click);
+            // 
             // GameForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(484, 310);
+            this.ClientSize = new System.Drawing.Size(484, 386);
+            this.Controls.Add(this.buttonMultiPlayer);
             this.Controls.Add(this.buttonYes);
-            this.Controls.Add(this.panelVariants);
+            this.Controls.Add(this.buttonSinglePlayer);
             this.Controls.Add(this.labelTheWord);
             this.Controls.Add(this.labelRussianMessage);
             this.Controls.Add(this.labelEnglishMessage);
@@ -234,6 +264,7 @@
             this.Controls.Add(this.labelPlayer2Name);
             this.Controls.Add(this.labelPlayer1Name);
             this.Controls.Add(this.menu);
+            this.Controls.Add(this.panelVariants);
             this.MainMenuStrip = this.menu;
             this.Name = "GameForm";
             this.Text = "English Question";
@@ -265,6 +296,8 @@
         private System.Windows.Forms.RadioButton radioButtonVariant2;
         private System.Windows.Forms.RadioButton radioButtonVariant1;
         private System.Windows.Forms.Button buttonYes;
+        private System.Windows.Forms.Button buttonMultiPlayer;
+        private System.Windows.Forms.Button buttonSinglePlayer;
     }
 }
 

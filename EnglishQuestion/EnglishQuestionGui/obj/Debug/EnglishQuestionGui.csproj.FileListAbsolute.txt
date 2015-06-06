@@ -7,3 +7,14 @@ C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQu
 C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.csproj.GenerateResource.Cache
 C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.exe
 C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestionGui.exe.config
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.exe
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestionGui.exe
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestionGui.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.csprojResolveAssemblyReference.cache
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.GameForm.resources
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.Properties.Resources.resources
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.csproj.GenerateResource.Cache
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestLogic.dll
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestLogic.pdb

@@ -9,3 +9,8 @@ F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQue
 D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestion.exe.config
 D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\obj\Debug\EnglishQuestion.exe
 D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\obj\Debug\EnglishQuestion.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestion.exe
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestion.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestLogic.dll
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\bin\Debug\EnglishQuestLogic.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestion\obj\Debug\EnglishQuestion.csprojResolveAssemblyReference.cache
