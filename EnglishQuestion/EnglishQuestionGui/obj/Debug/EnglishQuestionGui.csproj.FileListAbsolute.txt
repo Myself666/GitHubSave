@@ -1,9 +1,0 @@
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestionGui.exe.config
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestionGui.exe
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\bin\Debug\EnglishQuestionGui.pdb
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.csprojResolveAssemblyReference.cache
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.GameForm.resources
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.Properties.Resources.resources
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.csproj.GenerateResource.Cache
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.exe
-C:\Users\Public\Documents\EnglishQuestion\EnglishQuestionGui\obj\Debug\EnglishQuestionGui.pdb
