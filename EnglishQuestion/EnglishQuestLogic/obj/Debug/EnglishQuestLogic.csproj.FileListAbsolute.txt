@@ -1,0 +1,18 @@
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.csprojResolveAssemblyReference.cache
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.dll
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.pdb
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.dll
+F:\my games\EnglishQuestion\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.pdb
+<<<<<<< HEAD
+C:\Users\2014\Documents\GitHub\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.csprojResolveAssemblyReference.cache
+C:\Users\2014\Documents\GitHub\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.dll
+C:\Users\2014\Documents\GitHub\GitHubSave\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.dll
+C:\Users\2014\Documents\GitHub\GitHubSave\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.pdb
+C:\Users\2014\Documents\GitHub\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.pdb
+=======
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.dll
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.pdb
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.csprojResolveAssemblyReference.cache
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.dll
+D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.pdb
+>>>>>>> origin/master
