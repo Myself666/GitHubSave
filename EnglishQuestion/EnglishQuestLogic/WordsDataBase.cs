@@ -22,11 +22,11 @@ namespace EnglishQuestion.Logical
             _idValue = id;
         }
 
-        public string EnglishWord {get { return _englishValue; }}
+        public string EnglishWord {get { return _englishValue; } set { _englishValue = value; }}
 
-        public string RussianWord{get { return _russianValue; }}
+        public string RussianWord{get { return _russianValue; } set { _russianValue = value; }}
 
-        public int IdValue{get { return _idValue; }}
+        public int IdValue{get { return _idValue; } set { _idValue = value; }}
 
         public bool Used {get { return _used; } set { _used = value; }}
         public bool FakeUse { get { return _fakeUse; } set { _fakeUse = value; }}

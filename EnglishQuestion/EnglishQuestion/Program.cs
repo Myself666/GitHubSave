@@ -15,15 +15,18 @@ namespace EnglishQuestion
         private static ConsoleHud _consoleLogic;
         private static SaveLoadClass _sNloadClass = new SaveLoadClass();
 
+        private string wordPath = "text.txt";
 
         static void Main(string[] args)
         {
             CreateWdb();
             _sNloadClass.SaveWordsBase(wdbBase);
             _newPlayer = new TwoPlayers();
+            string wordPath = @"Text.txt";
 
-            WordsDataBase[] workWdb = _sNloadClass.LoadWordsBase();
-            _consoleLogic = new ConsoleHud(workWdb,_newPlayer, 12, true, true);
+            WordsDataBase[] workWdb = _sNloadClass.LoadWordsBase(wordPath);
+            int baseLenght = workWdb.Length;
+            _consoleLogic = new ConsoleHud(workWdb,_newPlayer, baseLenght, true, true);
             _consoleLogic.GetStartGame();
 
             Console.ReadLine();

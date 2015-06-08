@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EnglishQuestion.Logical 
 {
+    public delegate string GameMessage(string msg);
     public class SubLogicClass
     {
         protected WordsDataBase[] _wordsDataBaseUsed;
@@ -101,6 +102,11 @@ namespace EnglishQuestion.Logical
                 }
             }
             return (usedWords < _wordsDataBaseUsed.Length);
+        }
+
+        public string Messenger(string msg)
+        {
+            return msg;
         }
     }
 }

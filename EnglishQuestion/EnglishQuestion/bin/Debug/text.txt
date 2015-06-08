@@ -1,0 +1,14 @@
+﻿Apple|Яблоко
+Teacher|Учитель
+Board|Доска
+Cherry|Вишня
+Father|Отец
+Mather|Мама
+Uncle|Дядя
+Red|Красный
+Orange|Апельсин
+Pen|Ручка
+Book|Книга
+Daybook|Дневник
+Room|Комната
+Table|Стол

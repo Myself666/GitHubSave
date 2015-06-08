@@ -16,3 +16,8 @@ D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLo
 D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.dll
 D:\Develop\GitHubSave\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.pdb
 >>>>>>> origin/master
+C:\Users\2014\Documents\Visual Studio 2012\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.dll
+C:\Users\2014\Documents\Visual Studio 2012\EnglishQuestion\EnglishQuestLogic\bin\Debug\EnglishQuestLogic.pdb
+C:\Users\2014\Documents\Visual Studio 2012\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.csprojResolveAssemblyReference.cache
+C:\Users\2014\Documents\Visual Studio 2012\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.dll
+C:\Users\2014\Documents\Visual Studio 2012\EnglishQuestion\EnglishQuestLogic\obj\Debug\EnglishQuestLogic.pdb
